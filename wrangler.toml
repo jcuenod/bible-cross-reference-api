@@ -1,0 +1,8 @@
+name = "crossreferences"
+main = "src/index.js"
+compatibility_date = "2023-02-04"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
